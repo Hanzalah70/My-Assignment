@@ -1,0 +1,1003 @@
+@media  screen and (max-width:1400px) and (min-width:1200px) {
+
+    .sec-navbar {
+        width: 90%;
+    }
+
+    .logo-div{
+        justify-content: start;
+    }
+
+    .menu-div {
+        width: 68%;
+    }
+
+    .icons-div{
+        width: 18%;
+        justify-content: end;
+    }
+    
+    .in-secondsec {
+        width: 90%;
+    }
+
+    .left-sec {
+        width: 53%;
+    }
+
+    #main-head{
+        font-size: 83px;
+    }
+
+    .profilepic-div{
+        left: 0;
+        width: 100%;
+        height: 670px;
+    }
+
+    .profilepic-div img{
+        width:50%;
+    }
+
+    .in-companies {
+        width: 90%;
+    }
+
+    .right-bio{
+        width: 45%;
+        margin-right: 100px;
+    }
+
+    .left-para {
+        width: 50%;
+    }
+
+    .companies-div{
+        top: -49%;
+        height: 140px;
+    }
+
+    .sec-main2{
+        width: 90%;
+    }
+
+    .img {
+        width: 30%;
+    }
+
+    .in-portfolio{
+        margin-top: 15px;
+    }
+    
+    .inside-needs h1{
+        font-size: 3.8em;
+    }
+
+    .inside-main3{
+        width: 90%;
+    }
+
+    .division{
+        width: 30%;
+    }
+
+    #arrow3 {
+        margin-left: auto;
+    }
+
+    #arrow2 {
+        margin-left: auto;
+    }
+
+    #arrow1 {
+        margin-left: auto;
+    }
+
+    .end-div p {
+        font-size: 17px;
+        padding-top: 15px;
+    }
+
+
+}
+
+
+@media  screen and (max-width:1200px) and (min-width:1000px) {
+
+    .sec-navbar {
+        width: 90%;
+    }
+
+    .logo-div{
+        justify-content: start;
+    }
+
+    .menu-div {
+        width: 68%;
+    }
+
+    .icons-div{
+        width: 23%;
+        justify-content: end;
+    }
+
+    .in-secondsec {
+        width: 90%;
+    }
+
+    .in-companies {
+        width: 90%;
+    }
+
+    .sec-main2{
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    #main-head {
+        font-size: 65px;
+    }
+
+    .headings h1{
+        font-size: 58px;
+    }
+
+    .left-para {
+        width: 55%;
+        margin: 30px 0;
+        margin-bottom: 77px;
+    }
+
+    .profilepic-div{
+        left: 0;
+        width: 100%;
+        height: 670px;
+    }
+
+    .profilepic-div img{
+        width:55%;
+    }
+
+    .inside-main3{
+        width: 90%;
+    }
+
+    .inside-needs h1 {
+        font-size: 50px;
+    }
+
+    .inside-needs>p{
+        padding-right: 110px;
+    }
+
+    #arrow3 {
+        margin-left: auto;
+    }
+
+    #arrow2 {
+        margin-left: auto;
+    }
+
+    #arrow1 {
+        margin-left: auto;
+    }
+    
+    .end-div h2 {
+        font-size: 29px;
+    }
+
+    .companies-icons{
+        height: 100%;
+    }
+
+    .companies-div{
+        height: 140px;
+    }
+
+    .end-div p {
+        font-size: 16px;
+        padding-top: 15px;
+    }
+
+}
+
+
+
+@media  screen and (max-width:1600px) and (min-width:1400px) {
+    .sec-navbar {
+        width: 90%;
+    }
+
+    .logo-div{
+        justify-content: start;
+    }
+
+    .menu-div {
+        width: 68%;
+    }
+
+    .icons-div{
+        width: 18%;
+        justify-content: end;
+    }
+    
+    .in-secondsec {
+        width: 90%;
+    }
+
+    .left-sec {
+        width: 53%;
+    }
+
+    #main-head{
+        font-size: 83px;
+    }
+
+    .profilepic-div{
+        left: 0;
+        width: 100%;
+        height: 670px;
+    }
+
+    .profilepic-div img{
+        width:50%;
+    }
+
+    .in-companies {
+        width: 90%;
+    }
+
+    .right-bio{
+        width: 45%;
+        margin-right: 100px;
+    }
+
+    .left-para {
+        width: 50%;
+    }
+
+    .companies-div{
+        top: -49%;
+    }
+
+    .sec-main2{
+        width: 90%;
+    }
+
+    .img {
+        width: 30%;
+    }
+
+    .in-portfolio{
+        margin-top: 15px;
+    }
+    
+    .inside-needs h1{
+        font-size: 3.8em;
+    }
+
+    .inside-main3{
+        width: 90%;
+    }
+
+    .division{
+        width: 30%;
+    }
+
+    #arrow3 {
+        margin-left: auto;
+    }
+
+    #arrow2 {
+        margin-left: auto;
+    }
+
+    #arrow1 {
+        margin-left: auto;
+    }
+
+    .end-div p {
+        font-size: 17px;
+        padding-top: 15px;
+    }
+
+}
+
+
+
+
+
+
+@media  screen and (max-width:1800px) and (min-width:1600px) {
+    .sec-navbar {
+        width: 90%;
+    }
+
+    .logo-div{
+        justify-content: start;
+    }
+
+    .menu-div {
+        width: 68%;
+    }
+
+    .icons-div{
+        width: 18%;
+        justify-content: end;
+    }
+    
+    .in-secondsec {
+        width: 90%;
+    }
+
+    .left-sec {
+        width: 53%;
+    }
+
+    #main-head{
+        font-size: 83px;
+    }
+
+    .profilepic-div{
+        left: 0;
+        width: 100%;
+        height: 670px;
+    }
+
+    .profilepic-div img{
+        width:40%;
+    }
+
+    .in-companies {
+        width: 90%;
+    }
+
+    .right-bio{
+        width: 45%;
+        margin-right: 145px;
+    }
+
+    .left-para {
+        width: 50%;
+    }
+
+    .companies-div{
+        top: -49%;
+    }
+
+    .sec-main2{
+        width: 90%;
+    }
+
+    .img {
+        width: 30%;
+    }
+
+    .in-portfolio{
+        margin-top: 15px;
+    }
+    
+    .inside-needs h1{
+        font-size: 3.8em;
+    }
+
+    .inside-main3{
+        width: 90%;
+    }
+
+    .division{
+        width: 30%;
+    }
+
+    #arrow3 {
+        margin-left: auto;
+    }
+
+    #arrow2 {
+        margin-left: auto;
+    }
+
+    #arrow1 {
+        margin-left: auto;
+    }
+
+    .end-div p {
+        font-size: 18px;
+        padding-top: 15px;
+    }
+
+}
+
+
+
+@media  screen and (max-width:1000px) and (min-width:800px) {
+    
+        .sec-navbar {
+            width: 95%;
+        }
+    
+        .logo-div{
+            justify-content: start;
+        }
+    
+        .menu-div {
+            width: 68%;
+            margin-left: 54px;
+            justify-content: center;
+        }
+    
+        .icons-div{
+            width: 24%;
+            justify-content: end;
+        }
+    
+        .in-secondsec {
+            width: 95%;
+        }
+    
+        .in-companies {
+            width: 95%;
+        }
+    
+        .sec-main2{
+            width: 95%;
+        }
+    
+        #main-head {
+            font-size: 50px;
+        }
+    
+        .headings h1{
+            font-size: 40px;
+        }
+    
+        .left-para {
+            width: 55%;
+            margin: 30px 0;
+            margin-bottom: 77px;
+        }
+    
+        .profilepic-div{
+            left: 0;
+            width: 100%;
+            height: 670px;
+        }
+    
+        .profilepic-div img{
+            width:60%;
+        }
+    
+        .inside-main3{
+            width: 95%;
+        }
+    
+        .inside-needs h1 {
+            font-size: 44px;
+        }
+    
+        .inside-needs>p{
+            padding-right: 95px;
+            font-size: 16px;
+        }
+    
+        #arrow3 {
+            margin-left: auto;
+        }
+    
+        #arrow2 {
+            margin-left: auto;
+        }
+    
+        #arrow1 {
+            margin-left: auto;
+        }
+        
+        .end-div h2 {
+            font-size: 20px;
+        }
+    
+        .companies-icons{
+            height: 100%;
+        }
+    
+        .companies-div{
+            height: 120px;
+        }
+
+        .logo-div img {
+            height: 35px;
+            width: 150px;
+        }
+
+        .menu-items ul li a {
+            font-size: 17px;
+        }
+
+        .in-rightitems img {
+            height: 25px;
+            width: 25px;
+            padding: 0px 10px;
+        }
+
+        .navbar{
+            height: 90px;
+            align-items: center;
+        }
+
+        .left-para p{
+            font-size: 16px;
+        }
+
+        .right-bio {
+            width: 60%;
+            margin-right: 0;
+        }
+
+        .right-bio p {
+            font-size: 20px;
+        }
+
+        .main-div {
+            height: 670px;
+        }
+
+        .end-div p {
+            font-size: 16px;
+            padding-top: 15px;
+        }
+
+        .portfolio-info h2{
+            font-size: 20px;
+        }
+
+        .pro h3{
+            font-size: 24px;
+        }
+
+        .portfolio-info p{
+            font-size: 16px;
+        }
+    
+}
+
+
+@media screen and (max-width:480px) and (min-width:320px) {
+    
+    .menu-div {
+        display: none;
+    }
+
+    .main-div{
+        height: 1125px;
+    }
+
+    .navbar{
+        background-color: #222222;
+    }
+
+    .sec-navbar{
+        width: 95%;
+    }
+
+    .logo-div {
+        width: 50%;
+        justify-content: start;
+    }
+
+    .logo-div img {
+        height: 30px;
+        width: 140px;
+    }
+
+    .icons-div {
+        width: 50%;
+        justify-content: end;
+    }
+
+    .yes{
+        display: none;
+    }
+
+    #yes{
+        display: block;
+    }
+
+    .profilepic-div {
+        top: 115%;
+        left: 5%;
+    }
+
+    .profilepic-div img {
+        height: 60%;
+    }
+
+    .circle{
+        /* display: none; */
+        height: 300px;
+        width: 300px;
+        margin-top: 0;
+        position: absolute;
+        top: 123%;
+    left: 16%;
+    }
+
+    .secondsec-div{
+        padding-top: 120px;
+        top: 0%;
+    }
+
+    .in-secondsec{
+        width: 95%;
+        display: block;
+    }
+
+    .left-sec{
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .headings h1 {
+        font-size: 45px;
+    }
+
+    #main-head {
+        font-size: 55px;
+    }
+
+    .bottom-border {
+        width: 110px;
+    }
+
+    .left-para{
+        width: 100%;
+    }
+
+    .left-para p{
+        font-size: 14px;
+    }
+
+    .right-sec {
+        justify-content: start;
+        width: 100%;
+    }
+
+    .right-bio{
+        width: 100%;
+    }
+
+    .right-bio p{
+        font-size: 19px;
+        margin: 15px 0px;
+    }
+
+    .right-bio span a{
+        font-size: 14px;
+    }
+
+    .companies-div {
+        top: 32%;
+        height: 185px;
+    }
+
+    .in-companies{
+        width: 95%;
+        display: block;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        align-items: normal;
+        justify-content: normal;
+    }
+
+    .inside-companies{
+        align-items: center;
+        width: 100%;
+    }
+
+    .companies-icons {
+        background-color: #363543;
+        width: 87%;
+        height: 79%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        margin: 0px 17px;
+    }
+    
+    .sec-main2{
+        width: 95%;
+        display: block;
+    }
+
+    .needs-div {
+        width: 100%;
+    }
+
+    .inside-needs h1 {
+        font-size: 45px;
+    }
+
+    .inside-needs>p{
+        padding-right: 35px;
+    }
+
+    .portfolio{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .in-portfolio{
+        margin: 0;
+    }
+
+    .portfolio-info h2{
+        font-size: 21px;
+    }
+
+    .img{
+        width: 30%;
+    }
+
+    #arrow1{
+        margin-left: 70px;
+    }
+
+    #arrow2{
+        margin-left: 18px;
+    }
+
+    #arrow3{
+        margin-left: 0;
+    }
+
+    #main2-div{
+        height: auto;
+        padding-bottom: 50px
+    }
+    
+    #main3-div{
+        height: auto;
+    }
+
+    .inside-main3{
+        width: 95%;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+
+    .division {
+        width: 80%;
+        margin: 15px 0px;
+        padding-bottom: 20px;
+    }
+
+    
+.end-div h2 {
+    font-size: 25px;
+}
+
+
+}
+
+
+
+
+@media screen and (max-width:800px) and (min-width:481px) {
+    
+    .menu-div {
+        display: none;
+    }
+
+    .main-div{
+        height: 1125px;
+    }
+
+    .navbar{
+        background-color: #222222;
+    }
+
+    .sec-navbar{
+        width: 95%;
+    }
+
+    .logo-div {
+        width: 50%;
+        justify-content: start;
+    }
+
+    .logo-div img {
+        height: 30px;
+        width: 140px;
+    }
+
+    .icons-div {
+        width: 50%;
+        justify-content: end;
+    }
+
+    .yes{
+        display: none;
+    }
+
+    #yes{
+        display: block;
+    }
+
+    .profilepic-div {
+        top: 107%;
+        left: 20%;
+    }
+
+    .profilepic-div img {
+        height: 60%;
+    }
+
+    .circle{
+        /* display: none; */
+        height: 350px;
+        width: 350px;
+        margin-top: 0;
+        position: absolute;
+        top: 112%;
+    left: 24%;
+    }
+
+    .secondsec-div{
+        padding-top: 120px;
+        top: 0%;
+    }
+
+    .in-secondsec{
+        width: 95%;
+        display: block;
+    }
+
+    .left-sec{
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .headings h1 {
+        font-size: 45px;
+    }
+
+    #main-head {
+        font-size: 55px;
+    }
+
+    .bottom-border {
+        width: 110px;
+    }
+
+    .left-para{
+        width: 100%;
+    }
+
+    .left-para p{
+        font-size: 14px;
+    }
+
+    .right-sec {
+        justify-content: start;
+        width: 100%;
+    }
+
+    .right-bio{
+        width: 100%;
+    }
+
+    .right-bio p{
+        font-size: 19px;
+        margin: 15px 0px;
+    }
+
+    .right-bio span a{
+        font-size: 14px;
+    }
+
+    .companies-div {
+        top: 32%;
+        height: 185px;
+    }
+
+    .in-companies{
+        width: 95%;
+        display: block;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        align-items: normal;
+        justify-content: normal;
+    }
+
+    .inside-companies{
+        align-items: center;
+        width: 100%;
+    }
+
+    .companies-icons {
+        background-color: #363543;
+        width: 87%;
+        height: 79%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        margin: 0px 17px;
+    }
+    
+    .sec-main2{
+        width: 95%;
+        display: block;
+    }
+
+    .needs-div {
+        width: 100%;
+    }
+
+    .inside-needs h1 {
+        font-size: 45px;
+    }
+
+    .inside-needs>p{
+        padding-right: 35px;
+    }
+
+    .portfolio{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .in-portfolio{
+        margin: 0;
+    }
+
+    .portfolio-info h2{
+        font-size: 21px;
+    }
+
+    .img{
+        width: 30%;
+    }
+
+    #arrow1{
+        margin-left: 70px;
+    }
+
+    #arrow2{
+        margin-left: 18px;
+    }
+
+    #arrow3{
+        margin-left: 0;
+    }
+
+    #main2-div{
+        height: auto;
+        padding-bottom: 50px
+    }
+    
+    #main3-div{
+        height: auto;
+    }
+
+    .inside-main3{
+        width: 95%;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+
+    .division {
+        width: 80%;
+        margin: 15px 0px;
+        padding-bottom: 20px;
+    }
+
+    
+.end-div h2 {
+    font-size: 25px;
+}
+
+
+}
